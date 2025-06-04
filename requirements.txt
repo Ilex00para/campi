@@ -1,0 +1,5 @@
+smbus
+matplotlib
+numpy
+opencv-python
+
