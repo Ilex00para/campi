@@ -1,0 +1,9 @@
+
+calibrate_true: true
+chessboard_size: [8, 6]  # Number of inner corners in the chessboard pattern (width, height)
+square_size: 30  # Size of a square in the chessboard pattern in mm
+
+# Calibration configuration
+# This file contains the configuration for the calibration process in the Campi application.
+  # The path to the calibration file
+

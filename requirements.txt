@@ -1,5 +1,5 @@
+numpy
 smbus
 matplotlib
-numpy
 opencv-python
 

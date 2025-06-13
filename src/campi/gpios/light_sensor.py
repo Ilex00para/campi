@@ -226,7 +226,7 @@ def readVisibleLux() -> Union[int|Any]:
   # overflow
   return -1
 
- return calculateLux(channel0, channel1)
+ return calculateLux(channel0, channel1), schannel0, schannel1, timing_ms, gain_m
 
 def calculateLux(ch0, ch1) -> Union[int|Any]:
  chScale = 0
